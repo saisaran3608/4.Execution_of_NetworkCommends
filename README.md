@@ -57,8 +57,8 @@ This commands includes
 <img width="956" height="509" alt="Screenshot 2026-11-25 102814" src="https://github.com/user-attachments/assets/f980a34c-9fa8-4192-8dc1-412884288799" />
 
 ### systeminfo
-![Uploading Screenshot 2026-11-25 102838.png…]()
 
+<img width="960" height="540" alt="Screenshot 2026-11-25 102838" src="https://github.com/user-attachments/assets/9e2154c1-e48c-470d-8f48-97f7a8d1c0c2" />
 
 
 
